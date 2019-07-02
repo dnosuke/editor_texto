@@ -1,5 +1,7 @@
 import Vue from 'vue'
 import App from './App.vue'
+import './plugins/quill_editor.js'
+
 
 Vue.config.productionTip = false
 
